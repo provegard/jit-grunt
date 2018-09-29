@@ -1,5 +1,5 @@
 'use strict';
-var jitGrunt = require('./lib/jit-grunt');
+var jitGrunt = require('./src/jit-grunt');
 var path = require('path');
 
 module.exports = function (grunt, mappings) {
